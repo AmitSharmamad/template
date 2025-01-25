@@ -9,7 +9,6 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
 
-  { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.sql" },
   { import = "astrocommunity.pack.full-dadbod" },
   { import = "astrocommunity.pack.python" },
@@ -27,6 +26,7 @@ return {
 
   { import = "astrocommunity.colorscheme.nordic-nvim" },
   { import = "astrocommunity.colorscheme.github-nvim-theme" },
+  { import = "astrocommunity.colorscheme.gruvbox-nvim" },
 
   { import = "astrocommunity.markdown-and-latex.render-markdown-nvim" },
 
