@@ -19,6 +19,8 @@ return {
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.docker" },
 
+  { import = "astrocommunity.completion.avante-nvim" },
+
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.cmake" },
 
